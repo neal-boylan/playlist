@@ -1,2 +1,1 @@
-# playlist
-App to create playlists
+# Playlist 0.1.0
